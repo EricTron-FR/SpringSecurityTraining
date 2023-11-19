@@ -26,3 +26,11 @@ This repository contains my projects and exercises from the ["Spring Security: Z
 - Basic Authentication Project: Implementing basic login and user authentication.
 - OAuth2 Integration: Integrating OAuth2 for external authentication.
 - Role-Based Access Control: Implementing role-based access controls for different user types.
+
+# Technologies Used
+- Java
+- Spring Boot
+- Spring Security
+- Maven/Gradle
+- OAuth2
+- JWT
